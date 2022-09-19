@@ -23,8 +23,8 @@ fs.mkdir("file" , (err)=>{
     }
 })
 
-fs.rmdir("file" , (err)=>{
-    if(err){
-        console.log(err)
-    }
-})
+// fs.rmdir("file" , (err)=>{
+//     if(err){
+//         console.log(err)
+//     }
+// })
